@@ -60,6 +60,7 @@ namespace Sockets
             {
                 MessageBox.Show($"Error al enviar: {ex.Message}");
             }
+
         }
 
     }
